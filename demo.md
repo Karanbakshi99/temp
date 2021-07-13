@@ -1,2 +1,3 @@
 # Demo file
-testing github
+
+This line should appear in second copy
